@@ -1,15 +1,15 @@
 body{
-    background-color :rgb(255, 255, 255) (230, 247, 238) ;
+    background-color :rgb(255, 255, 255) ;
     }
-     h1{Roupas e Acessórios
+     h1{
     color: white; ;
     font-family:ariel ;
-    background: Temos vários tipos de roupas e acessórios: ;
+    background: ;
     }
     p{
     color:rgb(2, 2, 2) ;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
-    font-size: 30 ;
+    font-size: 30px;
     text-align: center;
-    background: rgb(229, 100, 247)(241, 255, 248);
+    background: rgb(229, 100, 247);
     }
